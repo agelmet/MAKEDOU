@@ -1,16 +1,16 @@
 {
  "source": {
-  "kind": "inline",
-  "ref": "the header logo (inline SVG in index.html)"
+  "kind": "file",
+  "ref": "assets/img/logo-makedou-512.png"
  },
- "source_md5": "89659e5dfa37bf7a6b8be9495da124e0",
- "version": "29be28b3",
- "tile": "#F2F1EC",
+ "source_md5": "478056a667c28c59114932cc6da38b1e",
+ "version": "d23d5b72",
+ "tile": "#F3F0E9",
  "crop": null,
  "header": [
-  "inline",
-  "index.html",
-  "89659e5dfa37bf7a6b8be9495da124e0"
+  "file",
+  "assets/img/logo-makedou-96.webp",
+  "6139beca92e5805bb7f74c019fb08786"
  ],
- "made": "2026-10-07"
+ "made": "2026-10-11"
 }
